@@ -38,5 +38,31 @@
     <pubDate>Wed, 17 Jun 2026 17:57:54 +0000</pubDate>
     <itunes:duration>1055</itunes:duration>
   </item>
+  <item>
+    <title>Episode 2: The Neuron, Building Block of Neural Networks</title>
+    <description>Aria and Helio zoom into the single neuron: inputs and weights, the weighted sum, bias, and activation functions (step, sigmoid, ReLU) at an intuitive level, then how neurons stack into layers to form deep networks.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio zoom into the single neuron: inputs and weights, the weighted sum, bias, and activation functions (step, sigmoid, ReLU) at an intuitive level, then how neurons stack into layers to form deep networks.</itunes:summary>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-65b77f8d-4610-4e48-a389-e3e0e37f38e2.mp3" length="5186496" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-65b77f8d-4610-4e48-a389-e3e0e37f38e2</guid>
+    <pubDate>Wed, 17 Jun 2026 21:38:05 +0000</pubDate>
+    <itunes:duration>648</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 3: How Neural Networks Learn</title>
+    <description>Aria and Helio unpack how a network actually learns: the forward pass, measuring error with a loss, and backpropagation intuition, plus gradient descent and the learning rate, explained with the blame-flowing-backward and walking-downhill-in-fog analogies.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio unpack how a network actually learns: the forward pass, measuring error with a loss, and backpropagation intuition, plus gradient descent and the learning rate, explained with the blame-flowing-backward and walking-downhill-in-fog analogies.</itunes:summary>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-e5d15991-b835-4a16-a89c-b6e391653fd2.mp3" length="4819392" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-e5d15991-b835-4a16-a89c-b6e391653fd2</guid>
+    <pubDate>Wed, 17 Jun 2026 21:39:53 +0000</pubDate>
+    <itunes:duration>602</itunes:duration>
+  </item>
 </channel>
 </rss>
