@@ -27,16 +27,16 @@
   </image>
   <item>
     <title>Episode 1: What Machine Learning Actually Is</title>
-    <description>Aria and Helio rebuild the foundations: how ML differs from traditional programming, the AI/ML/deep-learning nesting, the three styles of learning, the training loop, and why generalization beats memorization.</description>
+    <description>Aria and Helio rebuild the foundation: why machine learning flips rules-plus-data into data-plus-answers, the nested circles of AI, ML, and deep learning, the three styles of learning, the predict-loss-gradient-descent training loop and why it reshaped the chip industry, and why generalization beats memorization.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio rebuild the foundations: how ML differs from traditional programming, the AI/ML/deep-learning nesting, the three styles of learning, the training loop, and why generalization beats memorization.</itunes:summary>
+    <itunes:summary>Aria and Helio rebuild the foundation: why machine learning flips rules-plus-data into data-plus-answers, the nested circles of AI, ML, and deep learning, the three styles of learning, the predict-loss-gradient-descent training loop and why it reshaped the chip industry, and why generalization beats memorization.</itunes:summary>
     <itunes:episode>1</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-0253d1d1-0f0c-4153-ae74-4bd7a2f0f5d4.mp3" length="8442048" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-4675652a-6654-42fa-8445-2f93c6fc2ad1.mp3" length="6573120" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-0253d1d1-0f0c-4153-ae74-4bd7a2f0f5d4</guid>
     <pubDate>Wed, 17 Jun 2026 17:57:54 +0000</pubDate>
-    <itunes:duration>1055</itunes:duration>
+    <itunes:duration>821</itunes:duration>
   </item>
   <item>
     <title>Episode 2: The Neuron, Building Block of Neural Networks</title>
