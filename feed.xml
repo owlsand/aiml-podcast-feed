@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>AI &amp; ML with Don</title>
+  <description>A commute-friendly series rebuilding the fundamentals of AI and machine learning, one episode at a time.</description>
+  <link>https://hatch.ecto1.ai/podcasts/feed/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73</link>
+  <language>en</language>
+  <copyright>&#169; 2026 Don Lawson</copyright>
+  <itunes:author>Don Lawson</itunes:author>
+  <itunes:summary>A commute-friendly series rebuilding the fundamentals of AI and machine learning, one episode at a time.</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:owner>
+    <itunes:name>Don Lawson</itunes:name>
+    <itunes:email>don.lawson628@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Technology"/>
+  <itunes:category text="Education"/>
+  <atom:link href="https://owlsand.github.io/aiml-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/cover.jpg"/>
+  <image>
+    <url>https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/cover.jpg</url>
+    <title>AI &amp; ML with Don</title>
+    <link>https://hatch.ecto1.ai/podcasts/feed/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73</link>
+  </image>
+  <item>
+    <title>Episode 1: What Machine Learning Actually Is</title>
+    <description>Aria and Helio rebuild the foundations: how ML differs from traditional programming, the AI/ML/deep-learning nesting, the three styles of learning, the training loop, and why generalization beats memorization.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio rebuild the foundations: how ML differs from traditional programming, the AI/ML/deep-learning nesting, the three styles of learning, the training loop, and why generalization beats memorization.</itunes:summary>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-0253d1d1-0f0c-4153-ae74-4bd7a2f0f5d4.mp3" length="8442048" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0253d1d1-0f0c-4153-ae74-4bd7a2f0f5d4</guid>
+    <pubDate>Wed, 17 Jun 2026 17:57:54 +0000</pubDate>
+    <itunes:duration>1055</itunes:duration>
+  </item>
+</channel>
+</rss>
