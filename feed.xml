@@ -33,10 +33,10 @@
     <itunes:episode>1</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-c299eb0f-83b5-4450-acff-093b64e9f131.mp3" length="20188726" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-c3c65226-4b82-4980-a51b-30f9d555ad3d.mp3" length="20544200" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-0253d1d1-0f0c-4153-ae74-4bd7a2f0f5d4</guid>
     <pubDate>Wed, 17 Jun 2026 17:57:54 +0000</pubDate>
-    <itunes:duration>841</itunes:duration>
+    <itunes:duration>856</itunes:duration>
   </item>
   <item>
     <title>Episode 2: The Neuron, Building Block of Neural Networks</title>
@@ -46,10 +46,10 @@
     <itunes:episode>2</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-dfcc5a58-7899-425d-bfbb-3dfa3c8e6c9b.mp3" length="20292171" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-cd09676f-a118-40d5-a8cb-0075c2bbbbcd.mp3" length="20647018" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-65b77f8d-4610-4e48-a389-e3e0e37f38e2</guid>
     <pubDate>Wed, 17 Jun 2026 21:38:05 +0000</pubDate>
-    <itunes:duration>845</itunes:duration>
+    <itunes:duration>860</itunes:duration>
   </item>
   <item>
     <title>Episode 3: How Neural Networks Learn</title>
@@ -59,10 +59,10 @@
     <itunes:episode>3</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-7c905b68-e60b-45e1-9438-4b07b516e14c.mp3" length="17099799" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-b932cbf6-584a-42d8-b043-602421b7416f.mp3" length="17455273" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-e5d15991-b835-4a16-a89c-b6e391653fd2</guid>
     <pubDate>Wed, 17 Jun 2026 21:39:53 +0000</pubDate>
-    <itunes:duration>712</itunes:duration>
+    <itunes:duration>727</itunes:duration>
   </item>
 </channel>
 </rss>
