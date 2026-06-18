@@ -64,5 +64,18 @@
     <pubDate>Wed, 17 Jun 2026 21:39:53 +0000</pubDate>
     <itunes:duration>727</itunes:duration>
   </item>
+  <item>
+    <title>Episode 4: Deep Learning, What Depth Really Buys You</title>
+    <description>Aria and Helio tackle the word at the center of it all — deep. Why depth buys hierarchy (pixels to edges to parts to faces, learned by the network itself), why a shallow net can only match it at absurd size, and the real reason deep learning exploded around twenty twelve: data, parallel GPUs born from video games (the seed of the Nvidia and chip-war story), and humble fixes — ReLU, smart initialization, normalization — that beat the vanishing gradient and kept the learning signal alive all the way down.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio tackle the word at the center of it all — deep. Why depth buys hierarchy (pixels to edges to parts to faces, learned by the network itself), why a shallow net can only match it at absurd size, and the real reason deep learning exploded around twenty twelve: data, parallel GPUs born from video games (the seed of the Nvidia and chip-war story), and humble fixes — ReLU, smart initialization, normalization — that beat the vanishing gradient and kept the learning signal alive all the way down.</itunes:summary>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-9aacff53-0f56-4d98-8fc4-94261042b491.mp3" length="22603067" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0fb2d2a6-7713-4dc1-81ca-4b55d7361627</guid>
+    <pubDate>Thu, 18 Jun 2026 09:04:05 +0000</pubDate>
+    <itunes:duration>942</itunes:duration>
+  </item>
 </channel>
 </rss>
