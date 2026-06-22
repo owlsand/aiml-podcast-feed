@@ -77,5 +77,18 @@
     <pubDate>Thu, 18 Jun 2026 09:04:05 +0000</pubDate>
     <itunes:duration>942</itunes:duration>
   </item>
+  <item>
+    <title>Episode 5: Convolutional Neural Networks, Teaching Machines to See</title>
+    <description>Aria and Helio open the black box from Episode 4: how a layer actually finds an edge. They build the convolution operation from scratch, a tiny filter slid everywhere, slide-multiply-sum, explain feature maps, weight sharing, and translation invariance as a baked-in prior, then add ReLU and pooling to assemble a full CNN. In the Wild closes the loop on AlexNet, the 2012 model that ended hand-engineered computer vision, trained on two GTX 580 gaming cards, and the straight line from that grad-student hack to CUDA, export controls, and the chip war.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio open the black box from Episode 4: how a layer actually finds an edge. They build the convolution operation from scratch, a tiny filter slid everywhere, slide-multiply-sum, explain feature maps, weight sharing, and translation invariance as a baked-in prior, then add ReLU and pooling to assemble a full CNN. In the Wild closes the loop on AlexNet, the 2012 model that ended hand-engineered computer vision, trained on two GTX 580 gaming cards, and the straight line from that grad-student hack to CUDA, export controls, and the chip war.</itunes:summary>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-861b3c59-1fd8-4490-a646-f4d5c64ff3ac.mp3" length="26274421" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ea7365e6-ef99-4f8a-893c-25d56dae015a</guid>
+    <pubDate>Mon, 22 Jun 2026 09:11:28 +0000</pubDate>
+    <itunes:duration>1095</itunes:duration>
+  </item>
 </channel>
 </rss>
