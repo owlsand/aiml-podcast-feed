@@ -90,5 +90,18 @@
     <pubDate>Mon, 22 Jun 2026 09:11:28 +0000</pubDate>
     <itunes:duration>1095</itunes:duration>
   </item>
+  <item>
+    <title>Episode 6: Recurrent Neural Networks, Giving Machines Memory</title>
+    <description>Aria and Helio give the network something a still image never needed: memory. They build the recurrent neural network from the problem up, why sequences (language, speech, anything where order matters) break a feed-forward net; recurrence and the hidden state as a running summary; the same weights reused across time, the time-twin of the convolution weight-sharing from Episode 5; and backpropagation through time. Then the wall: vanishing and exploding gradients over long sequences, why a vanilla R N N forgets the start of a sentence by the end, and how L S T M and G R U gates open a protected lane for memory. In the Wild lands on sequence-to-sequence neural machine translation and Google's 2016 G N M T, the fixed thought-vector bottleneck that attention was invented to break, and why recurrence starving parallel hardware set the stage for the Transformer.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio give the network something a still image never needed: memory. They build the recurrent neural network from the problem up, why sequences (language, speech, anything where order matters) break a feed-forward net; recurrence and the hidden state as a running summary; the same weights reused across time, the time-twin of the convolution weight-sharing from Episode 5; and backpropagation through time. Then the wall: vanishing and exploding gradients over long sequences, why a vanilla R N N forgets the start of a sentence by the end, and how L S T M and G R U gates open a protected lane for memory. In the Wild lands on sequence-to-sequence neural machine translation and Google's 2016 G N M T, the fixed thought-vector bottleneck that attention was invented to break, and why recurrence starving parallel hardware set the stage for the Transformer.</itunes:summary>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-d3ee1c5c-fbe3-415c-aadd-cff71ee8bc9d.mp3" length="25654378" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d3cb924a-995e-4b42-a920-0e46b4c73921</guid>
+    <pubDate>Tue, 23 Jun 2026 04:31:58 +0000</pubDate>
+    <itunes:duration>1068</itunes:duration>
+  </item>
 </channel>
 </rss>
