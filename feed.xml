@@ -33,10 +33,10 @@
     <itunes:episode>1</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-c3c65226-4b82-4980-a51b-30f9d555ad3d.mp3" length="20544200" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-131a7b5f-234f-4925-987e-eb417c67bd53.mp3" length="23591750" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-0253d1d1-0f0c-4153-ae74-4bd7a2f0f5d4</guid>
     <pubDate>Wed, 17 Jun 2026 17:57:54 +0000</pubDate>
-    <itunes:duration>856</itunes:duration>
+    <itunes:duration>983</itunes:duration>
   </item>
   <item>
     <title>Episode 2: The Neuron, Building Block of Neural Networks</title>
@@ -46,10 +46,10 @@
     <itunes:episode>2</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-cd09676f-a118-40d5-a8cb-0075c2bbbbcd.mp3" length="20647018" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-896ed01c-a679-411a-a4cc-ead3301157c2.mp3" length="21431946" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-65b77f8d-4610-4e48-a389-e3e0e37f38e2</guid>
     <pubDate>Wed, 17 Jun 2026 21:38:05 +0000</pubDate>
-    <itunes:duration>860</itunes:duration>
+    <itunes:duration>893</itunes:duration>
   </item>
   <item>
     <title>Episode 3: How Neural Networks Learn</title>
@@ -59,10 +59,10 @@
     <itunes:episode>3</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-b932cbf6-584a-42d8-b043-602421b7416f.mp3" length="17455273" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-82362bf3-5978-4d41-a586-253e55ba6103.mp3" length="20754852" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-e5d15991-b835-4a16-a89c-b6e391653fd2</guid>
     <pubDate>Wed, 17 Jun 2026 21:39:53 +0000</pubDate>
-    <itunes:duration>727</itunes:duration>
+    <itunes:duration>865</itunes:duration>
   </item>
   <item>
     <title>Episode 4: Deep Learning, What Depth Really Buys You</title>
@@ -72,10 +72,10 @@
     <itunes:episode>4</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-9aacff53-0f56-4d98-8fc4-94261042b491.mp3" length="22603067" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-e88e0ce3-2e3b-4652-9bdf-34c7c3740302.mp3" length="21389314" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-0fb2d2a6-7713-4dc1-81ca-4b55d7361627</guid>
     <pubDate>Thu, 18 Jun 2026 09:04:05 +0000</pubDate>
-    <itunes:duration>942</itunes:duration>
+    <itunes:duration>891</itunes:duration>
   </item>
   <item>
     <title>Episode 5: Convolutional Neural Networks, Teaching Machines to See</title>
@@ -85,10 +85,10 @@
     <itunes:episode>5</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-861b3c59-1fd8-4490-a646-f4d5c64ff3ac.mp3" length="26274421" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-b1fde3e0-8f30-4959-b784-516d95ee4f12.mp3" length="27687541" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-ea7365e6-ef99-4f8a-893c-25d56dae015a</guid>
     <pubDate>Mon, 22 Jun 2026 09:11:28 +0000</pubDate>
-    <itunes:duration>1095</itunes:duration>
+    <itunes:duration>1154</itunes:duration>
   </item>
   <item>
     <title>Episode 6: Recurrent Neural Networks, Giving Machines Memory</title>
@@ -98,10 +98,11 @@
     <itunes:episode>6</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-d3ee1c5c-fbe3-415c-aadd-cff71ee8bc9d.mp3" length="25654378" type="audio/mpeg"/>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-f3f13e6e-7cec-455c-9724-32e20f6e41f7.mp3" length="24111482" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-d3cb924a-995e-4b42-a920-0e46b4c73921</guid>
     <pubDate>Tue, 23 Jun 2026 04:31:58 +0000</pubDate>
-    <itunes:duration>1068</itunes:duration>
+    <itunes:duration>1005</itunes:duration>
   </item>
 </channel>
 </rss>
+
