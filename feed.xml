@@ -142,5 +142,18 @@
     <pubDate>Thu, 02 Jul 2026 09:05:12 +0000</pubDate>
     <itunes:duration>1000</itunes:duration>
   </item>
+  <item>
+    <title>Episode 12: Evaluation and Bias</title>
+    <description>Aria and Helio explain how teams actually measure model behavior: labels, held-out tests, error tradeoffs, thresholds, calibration, bias, subgroup metrics, and why benchmarks can hide the people a system fails. In the Wild grounds the lesson in the Gender Shades benchmark controversy and the strategic shift from single accuracy claims to accountability by slice.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio explain how teams actually measure model behavior: labels, held-out tests, error tradeoffs, thresholds, calibration, bias, subgroup metrics, and why benchmarks can hide the people a system fails. In the Wild grounds the lesson in the Gender Shades benchmark controversy and the strategic shift from single accuracy claims to accountability by slice.</itunes:summary>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-76aff52e-4609-4591-8119-dcbcd7af8cbb.mp3" length="21695260" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-76aff52e-4609-4591-8119-dcbcd7af8cbb</guid>
+    <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
+    <itunes:duration>904</itunes:duration>
+  </item>
 </channel>
 </rss>
