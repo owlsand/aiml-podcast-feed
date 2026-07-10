@@ -143,6 +143,32 @@
     <itunes:duration>1000</itunes:duration>
   </item>
   <item>
+    <title>Episode 10: Training Data and the Data Pipeline</title>
+    <description>Aria and Helio explain why data is the supply chain of machine learning: collection, labeling, cleaning, splits, leakage, distribution shift, and the pipelines that keep models useful after launch.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio explain why data is the supply chain of machine learning: collection, labeling, cleaning, splits, leakage, distribution shift, and the pipelines that keep models useful after launch.</itunes:summary>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-8a7b6d8b-d1b1-463a-9e80-3df17fd8d9a3.mp3" length="20317249" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-8a7b6d8b-d1b1-463a-9e80-3df17fd8d9a3</guid>
+    <pubDate>Mon, 06 Jul 2026 02:08:37 +0000</pubDate>
+    <itunes:duration>846</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 11: Pretraining vs Fine-tuning</title>
+    <description>Aria and Helio separate the giant base-model run from the post-training work that turns a predictor into an assistant: supervised fine tuning, instruction tuning, preference tuning, and R L H F. In the Wild grounds it in Instruct G P T and the strategic lesson that scarce pretraining compute creates capability, while post-training shapes product behavior and distribution.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Aria and Helio separate the giant base-model run from the post-training work that turns a predictor into an assistant: supervised fine tuning, instruction tuning, preference tuning, and R L H F. In the Wild grounds it in Instruct G P T and the strategic lesson that scarce pretraining compute creates capability, while post-training shapes product behavior and distribution.</itunes:summary>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-52f6a784-4d32-451d-9ddd-e21bfe704e45.mp3" length="20409409" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-52f6a784-4d32-451d-9ddd-e21bfe704e45</guid>
+    <pubDate>Mon, 06 Jul 2026 16:04:35 +0000</pubDate>
+    <itunes:duration>850</itunes:duration>
+  </item>
+  <item>
     <title>Episode 12: Evaluation and Bias</title>
     <description>Aria and Helio explain how teams actually measure model behavior: labels, held-out tests, error tradeoffs, thresholds, calibration, bias, subgroup metrics, and why benchmarks can hide the people a system fails. In the Wild grounds the lesson in the Gender Shades benchmark controversy and the strategic shift from single accuracy claims to accountability by slice.</description>
     <itunes:author>Don Lawson</itunes:author>
