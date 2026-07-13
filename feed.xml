@@ -120,7 +120,7 @@
     <title>Episode 8: LLMs, How Modern AI Actually Works</title>
     <description>Aria and Helio take the Transformer from last episode and pour in the fuel. What happens when you train that architecture on enormous quantities of text from the open web? You get a large language model. The recipe is almost embarrassingly simple: predict the next word, at massive scale. They trace the two competing philosophies of twenty eighteen, Open A I's autoregressive G P T (predict the next token, left to right) and Google's B E R T (mask random words and predict them from both sides). G P T scaled up (one point five billion to a hundred seventy five billion parameters), B E R T became the backbone of search. Then the episode builds the economics: scaling laws that made A I progress an engineering problem rather than a discovery problem, emergent capabilities that appear at specific size thresholds, and the compute cost curve from millions to hundreds of millions of dollars per training run. In the Wild grounds it in the chip supply chain: Nvidia, T S M C, A S M L, and why U S export controls on advanced silicon are a direct consequence of the Transformer making frontier A I a hardware problem with physical chokepoints.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio take the Transformer from last episode and pour in the fuel. What happens when you train that architecture on enormous quantities of text from the open web? You get a large language model. The recipe is almost embarrassingly simple: predict the next word, at massive scale. They trace the two competing philosophies of twenty eighteen, Open A I's autoregressive G P T and Google's B E R T. Then the economics: scaling laws, emergent capabilities, and the compute cost curve. In the Wild grounds it in the chip supply chain and why U S export controls are a direct consequence of the Transformer making frontier A I a hardware problem.</itunes:summary>
+    <itunes:summary>Aria and Helio take the Transformer from last episode and pour in the fuel. What happens when you train that architecture on enormous quantities of text from the open web? You get a large language model. The recipe is almost embarrassingly simple: predict the next word, at massive scale. They trace the two competing philosophies of twenty eighteen, Open A I's autoregressive G P T (predict the next token, left to right) and Google's B E R T (mask random words and predict them from both sides). G P T scaled up (one point five billion to a hundred seventy five billion parameters), B E R T became the backbone of search. Then the episode builds the economics: scaling laws that made A I progress an engineering problem rather than a discovery problem, emergent capabilities that appear at specific size thresholds, and the compute cost curve from millions to hundreds of millions of dollars per training run. In the Wild grounds it in the chip supply chain: Nvidia, T S M C, A S M L, and why U S export controls on advanced silicon are a direct consequence of the Transformer making frontier A I a hardware problem with physical chokepoints.</itunes:summary>
     <itunes:episode>8</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
@@ -180,6 +180,19 @@
     <guid isPermaLink="false">ep-76aff52e-4609-4591-8119-dcbcd7af8cbb</guid>
     <pubDate>Thu, 09 Jul 2026 13:00:00 +0000</pubDate>
     <itunes:duration>904</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 13: Scaling Laws and Inference Economics</title>
+    <description>Why scaling laws stay smooth when eval jumps, why training is one-time but inference is forever, and how KV cache, batching, quantization, and chip-supply shape product economics. In the Wild: Llama 405B dense training and DeepSeek V3 MoE, plus power and export controls.</description>
+    <itunes:author>Don Lawson</itunes:author>
+    <itunes:summary>Why scaling laws stay smooth when eval jumps, why training is one-time but inference is forever, and how KV cache, batching, quantization, and chip-supply shape product economics. In the Wild: Llama 405B dense training and DeepSeek V3 MoE, plus power and export controls.</itunes:summary>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-01153fdb-362d-45fb-a85a-554f35a395b7.mp3" length="13244752" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-01153fdb-362d-45fb-a85a-554f35a395b7</guid>
+    <pubDate>Mon, 14 Jul 2026 13:00:00 +0000</pubDate>
+    <itunes:duration>552</itunes:duration>
   </item>
 </channel>
 </rss>
