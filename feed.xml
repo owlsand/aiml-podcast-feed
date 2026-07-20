@@ -1,127 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>AI &amp; ML with Don</title>
-  <link>https://example.com/aiml-with-don</link>
-  <language>en-us</language>
-  <copyright>Copyright 2026 Don Lawson</copyright>
-  <description>A plain-English, commute-friendly series explaining core AI and machine-learning concepts.</description>
-  <itunes:summary>A plain-English, commute-friendly series explaining core AI and machine-learning concepts.</itunes:summary>
+  <description>A commute-friendly series rebuilding the fundamentals of AI and machine learning, one episode at a time.</description>
+  <link>https://hatch.ecto1.ai/podcasts/feed/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73</link>
+  <language>en</language>
+  <copyright>&#169; 2026 Don Lawson</copyright>
   <itunes:author>Don Lawson</itunes:author>
+  <itunes:summary>A commute-friendly series rebuilding the fundamentals of AI and machine learning, one episode at a time.</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
   <itunes:owner>
     <itunes:name>Don Lawson</itunes:name>
     <itunes:email>don.lawson628@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:category text="Technology"/>
   <itunes:category text="Education"/>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:image href="https://agent.meta.ai/podcasts/cover/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73"/>
   <atom:link href="https://owlsand.github.io/aiml-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-  <item>
-    <title>Episode 1: What Is Machine Learning?</title>
-    <description>Aria and Helio unpack the basic idea of machine learning: systems that learn patterns from examples rather than being hand-coded rule by rule.</description>
+  <itunes:image href="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/cover.jpg"/>
+  <image>
+    <url>https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/cover.jpg</url>
+    <title>AI &amp; ML with Don</title>
+    <link>https://hatch.ecto1.ai/podcasts/feed/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73</link>
+  </image>
+<item>
+    <title>Episode 1: What Machine Learning Actually Is</title>
+    <description>Aria and Helio rebuild the foundation: why machine learning flips rules-plus-data into data-plus-answers, the nested circles of AI, ML, and deep learning, the three styles of learning, the predict-loss-gradient-descent training loop and why it reshaped the chip industry, and why generalization beats memorization.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio unpack the basic idea of machine learning: systems that learn patterns from examples rather than being hand-coded rule by rule.</itunes:summary>
+    <itunes:summary>Aria and Helio rebuild the foundation: why machine learning flips rules-plus-data into data-plus-answers, the nested circles of AI, ML, and deep learning, the three styles of learning, the predict-loss-gradient-descent training loop and why it reshaped the chip industry, and why generalization beats memorization.</itunes:summary>
     <itunes:episode>1</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-91ad0f0a-63e1-4950-9cfc-cd02404a2341.mp3" length="16933480" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-91ad0f0a-63e1-4950-9cfc-cd02404a2341</guid>
-    <pubDate>Tue, 17 Jun 2026 17:57:54 +0000</pubDate>
-    <itunes:duration>705</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-131a7b5f-234f-4925-987e-eb417c67bd53.mp3" length="23591750" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0253d1d1-0f0c-4153-ae74-4bd7a2f0f5d4</guid>
+    <pubDate>Wed, 17 Jun 2026 17:57:54 +0000</pubDate>
+    <itunes:duration>983</itunes:duration>
   </item>
-  <item>
-    <title>Episode 2: Models, Training, and Inference</title>
-    <description>Aria and Helio explain what a model actually is, why training is the expensive learning phase, and why inference is the fast answering phase people use in products.</description>
+<item>
+    <title>Episode 2: The Neuron, Building Block of Neural Networks</title>
+    <description>Aria and Helio open the box on the artificial neuron: inputs and weights as importance dials, the weighted sum, the bias as a default leaning, and why activation functions matter — from the untrainable hard step, to the sigmoid, to why simple ReLU won. Then how neurons stack into layers and what "deep" really means.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio explain what a model actually is, why training is the expensive learning phase, and why inference is the fast answering phase people use in products.</itunes:summary>
+    <itunes:summary>Aria and Helio open the box on the artificial neuron: inputs and weights as importance dials, the weighted sum, the bias as a default leaning, and why activation functions matter — from the untrainable hard step, to the sigmoid, to why simple ReLU won. Then how neurons stack into layers and what "deep" really means.</itunes:summary>
     <itunes:episode>2</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-c9ddec79-520a-438a-81bd-f811f3b8f99b.mp3" length="20294934" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-c9ddec79-520a-438a-81bd-f811f3b8f99b</guid>
-    <pubDate>Tue, 17 Jun 2026 18:48:12 +0000</pubDate>
-    <itunes:duration>846</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-896ed01c-a679-411a-a4cc-ead3301157c2.mp3" length="21431946" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-65b77f8d-4610-4e48-a389-e3e0e37f38e2</guid>
+    <pubDate>Wed, 17 Jun 2026 21:38:05 +0000</pubDate>
+    <itunes:duration>893</itunes:duration>
   </item>
-  <item>
-    <title>Episode 3: Supervised Learning</title>
-    <description>Aria and Helio explain supervised learning through labels, examples, loss functions, and the practical trade-offs behind classification and regression systems.</description>
+<item>
+    <title>Episode 3: How Neural Networks Learn</title>
+    <description>Aria and Helio open the engine room: the forward pass, the loss as the single number training hunts to shrink, and backpropagation explained as blame flowing backward through an org chart — plus the reuse trick that made it practical. Then gradient descent and the learning rate, the humble knob that wastes money if too small and blows up if too big.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio explain supervised learning through labels, examples, loss functions, and the practical trade-offs behind classification and regression systems.</itunes:summary>
+    <itunes:summary>Aria and Helio open the engine room: the forward pass, the loss as the single number training hunts to shrink, and backpropagation explained as blame flowing backward through an org chart — plus the reuse trick that made it practical. Then gradient descent and the learning rate, the humble knob that wastes money if too small and blows up if too big.</itunes:summary>
     <itunes:episode>3</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-5ba655d7-c3ad-4105-a254-8da769df08ec.mp3" length="21710610" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-5ba655d7-c3ad-4105-a254-8da769df08ec</guid>
-    <pubDate>Thu, 19 Jun 2026 10:56:00 +0000</pubDate>
-    <itunes:duration>905</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-82362bf3-5978-4d41-a586-253e55ba6103.mp3" length="20754852" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-e5d15991-b835-4a16-a89c-b6e391653fd2</guid>
+    <pubDate>Wed, 17 Jun 2026 21:39:53 +0000</pubDate>
+    <itunes:duration>865</itunes:duration>
   </item>
-  <item>
-    <title>Episode 4: Unsupervised and Self-Supervised Learning</title>
-    <description>Aria and Helio contrast clustering and representation learning with the self-supervised prediction tasks that power modern large models.</description>
+<item>
+    <title>Episode 4: Deep Learning, What Depth Really Buys You</title>
+    <description>Aria and Helio tackle the word at the center of it all — deep. Why depth buys hierarchy (pixels to edges to parts to faces, learned by the network itself), why a shallow net can only match it at absurd size, and the real reason deep learning exploded around twenty twelve: data, parallel GPUs born from video games (the seed of the Nvidia and chip-war story), and humble fixes — ReLU, smart initialization, normalization — that beat the vanishing gradient and kept the learning signal alive all the way down.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio contrast clustering and representation learning with the self-supervised prediction tasks that power modern large models.</itunes:summary>
+    <itunes:summary>Aria and Helio tackle the word at the center of it all — deep. Why depth buys hierarchy (pixels to edges to parts to faces, learned by the network itself), why a shallow net can only match it at absurd size, and the real reason deep learning exploded around twenty twelve: data, parallel GPUs born from video games (the seed of the Nvidia and chip-war story), and humble fixes — ReLU, smart initialization, normalization — that beat the vanishing gradient and kept the learning signal alive all the way down.</itunes:summary>
     <itunes:episode>4</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-f9f6bda1-97be-4b22-b269-713a4fa2b5ef.mp3" length="18760606" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-f9f6bda1-97be-4b22-b269-713a4fa2b5ef</guid>
-    <pubDate>Thu, 19 Jun 2026 13:44:00 +0000</pubDate>
-    <itunes:duration>782</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-e88e0ce3-2e3b-4652-9bdf-34c7c3740302.mp3" length="21389314" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0fb2d2a6-7713-4dc1-81ca-4b55d7361627</guid>
+    <pubDate>Thu, 18 Jun 2026 09:04:05 +0000</pubDate>
+    <itunes:duration>891</itunes:duration>
   </item>
-  <item>
-    <title>Episode 5: Neural Networks</title>
-    <description>Aria and Helio explain why neural networks are stacks of learned transformations, how layers and activations work, and why depth turns simple math into flexible pattern recognition.</description>
+<item>
+    <title>Episode 5: Convolutional Neural Networks, Teaching Machines to See</title>
+    <description>Aria and Helio open the black box from Episode 4: how a layer actually finds an edge. They build the convolution operation from scratch, a tiny filter slid everywhere, slide-multiply-sum, explain feature maps, weight sharing, and translation invariance as a baked-in prior, then add ReLU and pooling to assemble a full CNN. In the Wild closes the loop on AlexNet, the 2012 model that ended hand-engineered computer vision, trained on two GTX 580 gaming cards, and the straight line from that grad-student hack to CUDA, export controls, and the chip war.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio explain why neural networks are stacks of learned transformations, how layers and activations work, and why depth turns simple math into flexible pattern recognition.</itunes:summary>
+    <itunes:summary>Aria and Helio open the black box from Episode 4: how a layer actually finds an edge. They build the convolution operation from scratch, a tiny filter slid everywhere, slide-multiply-sum, explain feature maps, weight sharing, and translation invariance as a baked-in prior, then add ReLU and pooling to assemble a full CNN. In the Wild closes the loop on AlexNet, the 2012 model that ended hand-engineered computer vision, trained on two GTX 580 gaming cards, and the straight line from that grad-student hack to CUDA, export controls, and the chip war.</itunes:summary>
     <itunes:episode>5</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-ccf7718f-cc1d-48be-9481-e4faed551c40.mp3" length="26647648" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-ccf7718f-cc1d-48be-9481-e4faed551c40</guid>
-    <pubDate>Mon, 23 Jun 2026 04:32:52 +0000</pubDate>
-    <itunes:duration>1110</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-b1fde3e0-8f30-4959-b784-516d95ee4f12.mp3" length="27687541" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ea7365e6-ef99-4f8a-893c-25d56dae015a</guid>
+    <pubDate>Mon, 22 Jun 2026 09:11:28 +0000</pubDate>
+    <itunes:duration>1154</itunes:duration>
   </item>
-  <item>
-    <title>Episode 6: Transformers and Attention</title>
-    <description>Aria and Helio make transformers intuitive: tokens, embeddings, attention, and why this architecture became the default for large language models.</description>
+<item>
+    <title>Episode 6: Recurrent Neural Networks, Giving Machines Memory</title>
+    <description>Aria and Helio give the network something a still image never needed: memory. They build the recurrent neural network from the problem up, why sequences (language, speech, anything where order matters) break a feed-forward net; recurrence and the hidden state as a running summary; the same weights reused across time, the time-twin of the convolution weight-sharing from Episode 5; and backpropagation through time. Then the wall: vanishing and exploding gradients over long sequences, why a vanilla R N N forgets the start of a sentence by the end, and how L S T M and G R U gates open a protected lane for memory. In the Wild lands on sequence-to-sequence neural machine translation and Google's 2016 G N M T, the fixed thought-vector bottleneck that attention was invented to break, and why recurrence starving parallel hardware set the stage for the Transformer.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio make transformers intuitive: tokens, embeddings, attention, and why this architecture became the default for large language models.</itunes:summary>
+    <itunes:summary>Aria and Helio give the network something a still image never needed: memory. They build the recurrent neural network from the problem up, why sequences (language, speech, anything where order matters) break a feed-forward net; recurrence and the hidden state as a running summary; the same weights reused across time, the time-twin of the convolution weight-sharing from Episode 5; and backpropagation through time. Then the wall: vanishing and exploding gradients over long sequences, why a vanilla R N N forgets the start of a sentence by the end, and how L S T M and G R U gates open a protected lane for memory. In the Wild lands on sequence-to-sequence neural machine translation and Google's 2016 G N M T, the fixed thought-vector bottleneck that attention was invented to break, and why recurrence starving parallel hardware set the stage for the Transformer.</itunes:summary>
     <itunes:episode>6</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-f2d61ea9-9ce9-4817-834d-67399a0ca291.mp3" length="18181516" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-f2d61ea9-9ce9-4817-834d-67399a0ca291</guid>
-    <pubDate>Mon, 23 Jun 2026 04:35:47 +0000</pubDate>
-    <itunes:duration>757</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-f3f13e6e-7cec-455c-9724-32e20f6e41f7.mp3" length="24111482" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d3cb924a-995e-4b42-a920-0e46b4c73921</guid>
+    <pubDate>Tue, 23 Jun 2026 04:31:58 +0000</pubDate>
+    <itunes:duration>1005</itunes:duration>
   </item>
-  <item>
-    <title>Episode 7: Generative AI and Foundation Models</title>
-    <description>Aria and Helio explain what makes generative AI different from earlier predictive models, why foundation models generalize across tasks, and why the wild example is ChatGPT rather than a generic chatbot.</description>
+<item>
+    <title>Episode 7: Attention and the Transformer</title>
+    <description>Aria and Helio break the wall Episode 6 left them at: the fixed thought-vector bottleneck and recurrence starving parallel hardware. The fix is attention, a learned, soft lookup, query, key, and value, that lets a model weigh the whole input instead of cramming it through one vector. They build self-attention (how the word it finds what it refers to), the parallelism unlock that finally fits the G P U, and then the Transformer from Attention Is All You Need, twenty seventeen: multi-head attention and positional encoding, recurrence dropped entirely. In the Wild grounds it in the Transformer itself, why it displaced Google's own G N M T, and Don's chip-war read: turning sequence modeling into dense parallel matrix math made progress a function of compute you can buy, the starting gun for the scaling era and the throughline to Nvidia, T P Us, and export controls.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio explain what makes generative AI different from earlier predictive models, why foundation models generalize across tasks, and why the wild example is ChatGPT rather than a generic chatbot.</itunes:summary>
+    <itunes:summary>Aria and Helio break the wall Episode 6 left them at: the fixed thought-vector bottleneck and recurrence starving parallel hardware. The fix is attention, a learned, soft lookup, query, key, and value, that lets a model weigh the whole input instead of cramming it through one vector. They build self-attention (how the word it finds what it refers to), the parallelism unlock that finally fits the G P U, and then the Transformer from Attention Is All You Need, twenty seventeen: multi-head attention and positional encoding, recurrence dropped entirely. In the Wild grounds it in the Transformer itself, why it displaced Google's own G N M T, and Don's chip-war read: turning sequence modeling into dense parallel matrix math made progress a function of compute you can buy, the starting gun for the scaling era and the throughline to Nvidia, T P Us, and export controls.</itunes:summary>
     <itunes:episode>7</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-fec7992f-4068-4f5f-a5d6-5b3468084d1e.mp3" length="17816814" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-fec7992f-4068-4f5f-a5d6-5b3468084d1e</guid>
-    <pubDate>Thu, 26 Jun 2026 13:00:00 +0000</pubDate>
-    <itunes:duration>742</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-97eabed2-7073-4efd-85e9-5585e8ed97fd.mp3" length="19161173" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-97eabed2-7073-4efd-85e9-5585e8ed97fd</guid>
+    <pubDate>Thu, 25 Jun 2026 09:02:27 +0000</pubDate>
+    <itunes:duration>798</itunes:duration>
   </item>
-  <item>
-    <title>Episode 8: Prompting and Context Windows</title>
-    <description>Aria and Helio unpack prompting and context windows: why prompts steer a model rather than reprogram it, how tokens constrain what the model can use at once, and why long context is a product lever, not a substitute for memory. In the Wild grounds it in Claude 100K and 200K, Gemini 1.5's million-token context, and the trade-offs behind stuffing everything into the prompt.</description>
+<item>
+    <title>Episode 8: LLMs, How Modern AI Actually Works</title>
+    <description>Aria and Helio take the Transformer from last episode and pour in the fuel. What happens when you train that architecture on enormous quantities of text from the open web? You get a large language model. The recipe is almost embarrassingly simple: predict the next word, at massive scale. They trace the two competing philosophies of twenty eighteen, Open A I's autoregressive G P T (predict the next token, left to right) and Google's B E R T (mask random words and predict them from both sides). G P T scaled up (one point five billion to a hundred seventy five billion parameters), B E R T became the backbone of search. Then the episode builds the economics: scaling laws that made A I progress an engineering problem rather than a discovery problem, emergent capabilities that appear at specific size thresholds, and the compute cost curve from millions to hundreds of millions of dollars per training run. In the Wild grounds it in the chip supply chain: Nvidia, T S M C, A S M L, and why U S export controls on advanced silicon are a direct consequence of the Transformer making frontier A I a hardware problem with physical chokepoints.</description>
     <itunes:author>Don Lawson</itunes:author>
-    <itunes:summary>Aria and Helio unpack prompting and context windows: why prompts steer a model rather than reprogram it, how tokens constrain what the model can use at once, and why long context is a product lever, not a substitute for memory. In the Wild grounds it in Claude 100K and 200K, Gemini 1.5's million-token context, and the trade-offs behind stuffing everything into the prompt.</itunes:summary>
+    <itunes:summary>Aria and Helio take the Transformer from last episode and pour in the fuel. What happens when you train that architecture on enormous quantities of text from the open web? You get a large language model. The recipe is almost embarrassingly simple: predict the next word, at massive scale. They trace the two competing philosophies of twenty eighteen, Open A I's autoregressive G P T and Google's B E R T. Then the economics: scaling laws, emergent capabilities, and the compute cost curve. In the Wild grounds it in the chip supply chain and why U S export controls are a direct consequence of the Transformer making frontier A I a hardware problem.</itunes:summary>
     <itunes:episode>8</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-    <enclosure url="https://agent.meta.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-937da896-1a27-4720-b579-0e47766661fd.mp3" length="21844541" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-937da896-1a27-4720-b579-0e47766661fd</guid>
-    <pubDate>Sun, 29 Jun 2026 08:16:17 +0000</pubDate>
-    <itunes:duration>910</itunes:duration>
+    <enclosure url="https://hatch.ecto1.ai/podcasts/media/387804687760047/1fbe2ea7-6549-51bc-8ce9-46849647ce73/ep-4e95756d-0d5e-4883-bb1d-cf3790f66103.mp3" length="21203113" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-4e95756d-0d5e-4883-bb1d-cf3790f66103</guid>
+    <pubDate>Mon, 29 Jun 2026 15:14:00 +0000</pubDate>
+    <itunes:duration>883</itunes:duration>
   </item>
   <item>
     <title>Episode 9: Embeddings and Retrieval, Vectors as Meaning</title>
